@@ -22,5 +22,5 @@
 
 
 [[constraint]]
-  name = "gopkg.in/src-d/go-git.v4"
-  version = "=v4.0.0-rc15"
+  name = "github.com/go-git/go-git/v5"
+  version = "=v5"
